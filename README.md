@@ -32,6 +32,18 @@ InsightWise transforms interaction data into valuable information for optimizing
 - **Langchain** and **Ollama** for generating detailed insights through AI
 - **Oracle SQL Developer**
 
+# Presentation Videos
+- [Java Application](https://www.youtube.com/watch?v=SWA94V1H_Y0)
+- [Mobile Version](https://youtu.be/B6ZZIZmo8L0)
+- [Reflection and Final Product](https://youtu.be/W4cTeR_WAZM)
+  
+# Repositories
+
+- [AI Application](https://github.com/nina-rebello/IA_InsightWise.git)
+- [Backend](https://github.com/Santlago/apiinsightwise.git)
+- [Frontend](https://github.com/Santlago/insightwise.git)
+- [Mobile](https://github.com/FelipeGuedesGoncalves/InsightWiseMobile)
+  
 ## Installation
 
 1. Clone this repository:
