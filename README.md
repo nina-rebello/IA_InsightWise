@@ -33,12 +33,14 @@ InsightWise transforms interaction data into valuable information for optimizing
 - **Oracle SQL Developer**
 
 # Presentation Videos
+
 - [Java Application](https://www.youtube.com/watch?v=SWA94V1H_Y0)
 - [Mobile Version](https://youtu.be/B6ZZIZmo8L0)
 - [Reflection and Final Product](https://youtu.be/W4cTeR_WAZM)
   
 # Repositories
 
+- [Introduction](https://github.com/nina-rebello/InsightWise.git)
 - [AI Application](https://github.com/nina-rebello/IA_InsightWise.git)
 - [Backend](https://github.com/Santlago/apiinsightwise.git)
 - [Frontend](https://github.com/Santlago/insightwise.git)
